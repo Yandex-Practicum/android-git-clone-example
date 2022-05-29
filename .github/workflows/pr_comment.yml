@@ -1,0 +1,15 @@
+on: pull_request
+
+jobs:
+  pr_comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment PR
+        uses: thollander/actions-comment-pull-request@v1
+        with:
+          # Не модифицируйте первую строчку этого блока, так как он используется в квизе
+          message: |
+            Привет! :wink:
+            ---
+            Спасибо за твой Pull Request! Если это твой первый тестовый Pull Request, то его можно сразу же закрыть, используя кнопку "Close pull request" снизу.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
