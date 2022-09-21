@@ -1,6 +1,6 @@
 # Тестовый репозиторий для практики с Pull Request в GitHub
 
-Этот репозиторий - Vladimir Volkark
+Этот репозиторий - Vladimir Volkark ?
 
 ## Как этим пользоваться?
 
