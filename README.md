@@ -1,6 +1,6 @@
 # Тестовый репозиторий для практики с Pull Request в GitHub
 
-Этот репозиторий - *Konstantin Osipov3*
+Этот репозиторий - *Konstantin Osipov4*
 
 ## Как этим пользоваться?
 
