@@ -2,7 +2,7 @@
 
 Этот репозиторий - Дари 
 
-ojh;uigluglyf;fhgjhgjgjh 
+lololololololol
 
 ## Как этим пользоваться?
 
