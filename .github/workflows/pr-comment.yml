@@ -5,7 +5,7 @@ jobs:
   example_comment_pr:
     permissions: write-all
     runs-on: ubuntu-latest
-    name: Эта задача оставляет комментарий к пулл реквесту
+    name: Эта задача остаy5trytyyrtrtyyrtвляет коммеyggfhfghhhhhhhgfнтарий к пулл реквеyhhhhhсту
     steps:
       - name: Checkout
         uses: actions/checkout@v3
